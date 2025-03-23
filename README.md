@@ -145,19 +145,5 @@ Berikut adalah struktur folder utama dalam proyek ini:
 ---
 
 
-## 📞 Kontak dan Bantuan
-
-Jika Anda mengalami masalah atau memiliki pertanyaan, silakan hubungi:
-
-- **GitHub:** [OliverNathann](https://github.com/OliverNathann)
-- **Email:** example@email.com
-- **Diskusi & Isu:** [GitHub Issues](https://github.com/OliverNathann/astrapay-angular/issues)
-
----
-
-## 🎉 Terima Kasih! 🎉
-
-Terima kasih telah menggunakan **Astrapay Angular Frontend**! Jika proyek ini bermanfaat, jangan lupa untuk memberikan **⭐ Star** di repository ini. 🚀
-
 ---
 
